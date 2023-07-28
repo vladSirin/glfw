@@ -1,3 +1,8 @@
+# Binaries
+**/bin/*
+**/bin-int/*
+Intermediates/
+
 # The canonical out-of-tree build subdirectory
 build
 
